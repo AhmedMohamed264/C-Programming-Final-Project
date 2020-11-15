@@ -26,5 +26,5 @@ in the library and then the menu will be printed again and again after every opt
 Then finally if the user choosed to exit, he will be asked to rate the program from 0 to 5.
 
 # Refernces
-1- https://www.markdownguide.org/cheat-sheet/ --> we used it to write our readme report.
+1- https://www.markdownguide.org/cheat-sheet/ --> we used it to write our readme report.  
 2- https://www.youtube.com/watch?v=IOHhUDDZaRk --> We used it to color our console output.
